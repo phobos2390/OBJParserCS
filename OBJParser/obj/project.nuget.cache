@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iu8wf6TTL72D1IvCRyVRM54IS1vINc8t3QiNlRHEONJ/zCikal/Tgpf8XiC3WjB1fEVzyOM4HXnLdVslqvhOOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\source\\repos\\OBJParser\\OBJParser\\OBJParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\opentk.mathematics\\4.7.5\\opentk.mathematics.4.7.5.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

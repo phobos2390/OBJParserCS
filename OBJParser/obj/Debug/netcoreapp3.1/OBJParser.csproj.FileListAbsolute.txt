@@ -1,0 +1,14 @@
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.exe
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.deps.json
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.runtimeconfig.json
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.runtimeconfig.dev.json
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.dll
+C:\Users\James\source\repos\OBJParser\OBJParser\bin\Debug\netcoreapp3.1\OBJParser.pdb
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.AssemblyInfo.cs
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.dll
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.pdb
+C:\Users\James\source\repos\OBJParser\OBJParser\obj\Debug\netcoreapp3.1\OBJParser.genruntimeconfig.cache

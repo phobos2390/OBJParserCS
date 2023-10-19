@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OBJParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\VoxelTycoon\\Content\\cargo_bike\\units\\CrudeHumanWithBikeFrame.obj\" \"C:\\Program Files (x86)\\Steam\\steamapps\\common\\VoxelTycoon\\Content\\cargo_bike\\units\\CrudeHumanWithBikeFrame.yaml\""
+    }
+  }
+}
